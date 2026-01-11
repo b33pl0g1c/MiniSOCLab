@@ -1,15 +1,5 @@
 # MiniSOCLab: AI-Powered Security Operations Center
-
-
-'''                                                                                                                 
- _      _  _      _  ____  ____  ____    _     ____  ____ 
-/ \__/|/ \/ \  /|/ \/ ___\/  _ \/   _\  / \   /  _ \/  _ \
-| |\/||| || |\ ||| ||    \| / \||  /    | |   | / \|| | //
-| |  ||| || | \||| |\___ || \_/||  \__  | |_/\| |-||| |_\\
-\_/  \|\_/\_/  \|\_/\____/\____/\____/  \____/\_/ \|\____/
-                                                                                                                                                                                                '''            
-                                                                                
-                                                                                
+                                        
 
 A specialized Mini SOC environment that leverages **Wazuh SIEM** for threat detection and **Infrastructure as Code (Terraform)** for deployment. This project integrates with **Claude Desktop** via the Model Context Protocol (MCP), allowing an LLM to perform intelligent threat analysis on live security logs.
 
